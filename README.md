@@ -14,11 +14,25 @@ This repository contains the Flutter project for a food delivery app user interf
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/294d8e30-bba9-4891-b2bb-f11318f44759"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/12c1c90e-38fb-42aa-b16a-e9c371b6061c"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/e1bf0238-a57c-4524-a509-d64b6b5ae810"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/897495c9-d129-4e4f-aecc-4c7cf7821280"/>
+
+
+
 
 ## Demo
 
-Insert gif or link to demo
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/835e95e3-f0ea-438b-9bb4-44a07ea8b8a7"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/91b28c53-eea5-4ad3-b4cc-ad835f8125ad"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/e3fdb162-f4ca-4f0a-a5a3-29f84e781b20"/>
+<img width="205px" alt="Example" src="https://github.com/nerd-sourav/Tummy-Tail/assets/72149259/832cba2c-5b42-40dd-adb9-658ea65f4bfb"/>
+
+
+
 
 ## Installation
 
