@@ -1,0 +1,168 @@
+{
+    "categories": [
+        {
+            "title": "Food",
+            "imageUrl": "https://images.pexels.com/photos/5718025/pexels-photo-5718025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foods": [
+                {
+                    "name": "Pizza",
+                    "imageUrl": "https://example.com/pizza.jpg",
+                    "price": 10.99,
+                    "description": "Delicious pizza with a variety of toppings",
+                    "rating": 4.5
+                },
+                {
+                    "name": "Burger",
+                    "imageUrl": "https://example.com/burger.jpg",
+                    "price": 8.99,
+                    "description": "Juicy burger with fresh ingredients",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Pasta",
+                    "imageUrl": "https://example.com/pasta.jpg",
+                    "price": 12.99,
+                    "description": "Homemade pasta served with rich sauce",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Salad",
+                    "imageUrl": "https://example.com/salad.jpg",
+                    "price": 7.99,
+                    "description": "Fresh and healthy salad with a variety of greens",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Sandwich",
+                    "imageUrl": "https://example.com/sandwich.jpg",
+                    "price": 6.99,
+                    "description": "Classic sandwich filled with delicious ingredients",
+                    "rating": 4.1
+                }
+            ]
+        },
+        {
+            "title": "Liquors",
+            "imageUrl": "https://images.pexels.com/photos/339696/pexels-photo-339696.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foods": [
+                {
+                    "name": "Wine",
+                    "imageUrl": "https://example.com/wine.jpg",
+                    "price": 24.99,
+                    "description": "Finest selection of red and white wines",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Beer",
+                    "imageUrl": "https://example.com/beer.jpg",
+                    "price": 5.99,
+                    "description": "Refreshing beer from local breweries",
+                    "rating": 4.3
+                },
+                {
+                    "name": "Whiskey",
+                    "imageUrl": "https://example.com/whiskey.jpg",
+                    "price": 32.99,
+                    "description": "Premium whiskey with smooth flavor",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Vodka",
+                    "imageUrl": "https://example.com/vodka.jpg",
+                    "price": 19.99,
+                    "description": "High-quality vodka for your favorite cocktails",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Tequila",
+                    "imageUrl": "https://example.com/tequila.jpg",
+                    "price": 29.99,
+                    "description": "Authentic tequila with a touch of Mexico",
+                    "rating": 4.2
+                }
+            ]
+        },
+        {
+            "title": "Fine Dining",
+            "imageUrl": "https://images.pexels.com/photos/2079290/pexels-photo-2079290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foods": [
+                {
+                    "name": "Steak",
+                    "imageUrl": "https://example.com/steak.jpg",
+                    "price": 35.99,
+                    "description": "Tender and juicy steak cooked to perfection",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Seafood",
+                    "imageUrl": "https://example.com/seafood.jpg",
+                    "price": 28.99,
+                    "description": "Fresh and flavorful seafood delicacies",
+                    "rating": 4.7
+                },
+                {
+                    "name": "Sushi",
+                    "imageUrl": "https://example.com/sushi.jpg",
+                    "price": 22.99,
+                    "description": "Exquisite sushi rolls made by expert chefs",
+                    "rating": 4.6
+                },
+                {
+                    "name": "Lobster",
+                    "imageUrl": "https://example.com/lobster.jpg",
+                    "price": 42.99,
+                    "description": "Indulge in the succulent taste of lobster",
+                    "rating": 4.8
+                },
+                {
+                    "name": "Foie Gras",
+                    "imageUrl": "https://example.com/foie-gras.jpg",
+                    "price": 39.99,
+                    "description": "Luxurious delicacy for a gourmet experience",
+                    "rating": 4.5
+                }
+            ]
+        },
+        {
+            "title": "Bars",
+            "imageUrl": "https://images.pexels.com/photos/1189261/pexels-photo-1189261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "foods": [
+                {
+                    "name": "Cocktails",
+                    "imageUrl": "https://example.com/cocktails.jpg",
+                    "price": 12.99,
+                    "description": "Expertly crafted cocktails with a twist",
+                    "rating": 4.4
+                },
+                {
+                    "name": "Mocktails",
+                    "imageUrl": "https://example.com/mocktails.jpg",
+                    "price": 9.99,
+                    "description": "Non-alcoholic mocktails bursting with flavors",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Snacks",
+                    "imageUrl": "https://example.com/snacks.jpg",
+                    "price": 6.99,
+                    "description": "Delicious snacks to complement your drinks",
+                    "rating": 4.0
+                },
+                {
+                    "name": "Nachos",
+                    "imageUrl": "https://example.com/nachos.jpg",
+                    "price": 8.99,
+                    "description": "Crunchy nachos topped with melted cheese",
+                    "rating": 4.1
+                },
+                {
+                    "name": "Chicken Wings",
+                    "imageUrl": "https://example.com/chicken-wings.jpg",
+                    "price": 10.99,
+                    "description": "Spicy and flavorful chicken wings for your cravings",
+                    "rating": 4.3
+                }
+            ]
+        }
+    ]
+}

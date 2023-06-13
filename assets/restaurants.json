@@ -1,0 +1,39 @@
+{
+    "restaurants": [
+        {
+            "name": "Indian Bites",
+            "rating": 4.5,
+            "reviews": 120,
+            "image": "https://images.pexels.com/photos/1579739/pexels-photo-1579739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "location": "Mumbai, India"
+        },
+        {
+            "name": "Spice Delight",
+            "rating": 3.8,
+            "reviews": 80,
+            "image": "https://images.pexels.com/photos/1055058/pexels-photo-1055058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "location": "Delhi, India"
+        },
+        {
+            "name": "Tandoori Treats",
+            "rating": 4.2,
+            "reviews": 95,
+            "image": "https://images.pexels.com/photos/1449773/pexels-photo-1449773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "location": "Jaipur, India"
+        },
+        {
+            "name": "Curry House",
+            "rating": 4.7,
+            "reviews": 150,
+            "image": "https://images.pexels.com/photos/974382/pexels-photo-974382.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "location": "Chennai, India"
+        },
+        {
+            "name": "Biryani Paradise",
+            "rating": 4.0,
+            "reviews": 110,
+            "image": "https://images.pexels.com/photos/6580377/pexels-photo-6580377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "location": "Hyderabad, India"
+        }
+    ]
+}

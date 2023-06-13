@@ -1,0 +1,62 @@
+{
+    "categories": [
+        {
+            "name": "drinks",
+            "items": [
+                {
+                    "name": "Hennessy",
+                    "description": "Refreshing cocktail with lime and mint",
+                    "image": "https://purepng.com/public/uploads/large/purepng.com-wine-bottlebottle-food-wine-object-alcohol-beverage-cocktail-liquor-whiskey-drunk-941524623209e7vsm.png",
+                    "price": 7.99
+                },
+                {
+                    "name": "Jack Daniels",
+                    "description": "Classic cocktail with gin and vermouth",
+                    "image": "https://purepng.com/public/uploads/large/purepng.com-vodka-bottlebottle-food-vodka-wine-object-drink-alcohol-beverage-941524619651vuc2a.png",
+                    "price": 9.99
+                },
+                {
+                    "name": "Smirnoff",
+                    "description": "Vodka-based cocktail with cranberry and lime",
+                    "image": "https://purepng.com/public/uploads/large/purepng.com-vodka-bottlebottle-food-vodka-wine-object-drink-alcohol-beverage-941524619667kyvbv.png",
+                    "price": 8.99
+                },
+                {
+                    "name": "Old Fashioned",
+                    "description": "Timeless bourbon-based cocktail with bitters",
+                    "image": "https://purepng.com/public/uploads/large/purepng.com-whiskey-bottlebottle-food-vodka-wine-party-object-drink-alcohol-beverage-liquor-whiskey-scotch-spirit-brandy-941524620870eagpo.png",
+                    "price": 10.99
+                }
+            ]
+        },
+        {
+            "name": "mocktails",
+            "items": [
+                {
+                    "name": "Orange Mocktail",
+                    "description": "Non-alcoholic version of the refreshing mojito",
+                    "image": "https://images.pexels.com/photos/12336037/pexels-photo-12336037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "price": 5.99
+                },
+                {
+                    "name": "Blueberry Blast",
+                    "description": "Refreshing mocktail bursting with blueberry flavor",
+                    "image": "https://images.pexels.com/photos/2093089/pexels-photo-2093089.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "price": 5.99
+                },
+                {
+                    "name": "Strawberry Mocktail",
+                    "description": "Tropical blend of pineapple and coconut flavors",
+                    "image": "https://images.pexels.com/photos/14482784/pexels-photo-14482784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "price": 6.99
+                },
+                {
+                    "name": "Strawberry Lemonade",
+                    "description": "Sweet and tangy strawberry-flavored lemonade",
+                    "image": "https://images.pexels.com/photos/6542761/pexels-photo-6542761.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                    "price": 4.99
+                }
+            ]
+        }
+    ]
+}
