@@ -251,7 +251,14 @@ class _MainScreenState extends State<MainScreen> {
                         shrinkWrap: true,
                         itemCount: _items[0]['foods'].length,
                         itemBuilder: (BuildContext context, index) {
-                          return FoodCard();
+                          return FoodCard(
+                            name: _items[0]['foods'][index]['name'],
+                            imageUrl: _items[0]['foods'][index]['imageUrl'],
+                            price: _items[0]['foods'][index]['price'],
+                            description: _items[0]['foods'][index]
+                                ['description'],
+                            rating: _items[0]['foods'][index]['rating'],
+                          );
                         }),
                   ),
                   SizedBox(

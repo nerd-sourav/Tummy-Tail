@@ -6,35 +6,35 @@
             "foods": [
                 {
                     "name": "Pizza",
-                    "imageUrl": "https://example.com/pizza.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/colorful-round-tasty-pizza_1284-10219.jpg?w=826&t=st=1686770213~exp=1686770813~hmac=635729f40a6635068e595d5c567ca06c655189fb3c67e442005784978be63e96",
                     "price": 10.99,
                     "description": "Delicious pizza with a variety of toppings",
                     "rating": 4.5
                 },
                 {
                     "name": "Burger",
-                    "imageUrl": "https://example.com/burger.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/isolated-delicious-hamburger-cartoon_1308-134032.jpg?w=900&t=st=1686770278~exp=1686770878~hmac=c4a5e9c731fcaf64adabdb7464622a2dd3b0460461965a0dd0b5e808d0eedb48",
                     "price": 8.99,
                     "description": "Juicy burger with fresh ingredients",
                     "rating": 4.2
                 },
                 {
                     "name": "Pasta",
-                    "imageUrl": "https://example.com/pasta.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/hand-drawn-salchipapa_52683-49785.jpg?w=826&t=st=1686770306~exp=1686770906~hmac=01ce8004456f11b305d1cc6012ccc70ff36786bfa26b4be8a1aefa4347433cb1",
                     "price": 12.99,
                     "description": "Homemade pasta served with rich sauce",
                     "rating": 4.7
                 },
                 {
                     "name": "Salad",
-                    "imageUrl": "https://example.com/salad.jpg",
+                    "imageUrl": "https://img.freepik.com/premium-vector/fresh-vegetable-salad-gray-ceramic-bowl-fresh-healthy-food-vegetarian-nutrition-flat-vector-cafe-restaurant-menu_223337-7955.jpg?w=826",
                     "price": 7.99,
                     "description": "Fresh and healthy salad with a variety of greens",
                     "rating": 4.0
                 },
                 {
                     "name": "Sandwich",
-                    "imageUrl": "https://example.com/sandwich.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/sandwich-isolated-white-half_1308-32237.jpg?w=826&t=st=1686770358~exp=1686770958~hmac=bc4c9771e72fbed5b00889e8a622d6183aa606fce3b9c9a7b737734b732369ff",
                     "price": 6.99,
                     "description": "Classic sandwich filled with delicious ingredients",
                     "rating": 4.1
@@ -47,35 +47,35 @@
             "foods": [
                 {
                     "name": "Wine",
-                    "imageUrl": "https://example.com/wine.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/red-wine-bottle-glasses-grapes_1284-13323.jpg?w=826&t=st=1686770390~exp=1686770990~hmac=654ce6a3b28030fc2f2f281865dcf4776fdc96be7245f5273b1ac30be01a5a03",
                     "price": 24.99,
                     "description": "Finest selection of red and white wines",
                     "rating": 4.8
                 },
                 {
                     "name": "Beer",
-                    "imageUrl": "https://example.com/beer.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/beer-ad-with-vintage-illustration_52683-30484.jpg?w=826&t=st=1686770426~exp=1686771026~hmac=8cdc13e45544eed976aa02ca7d096c52fa9ca7246f1d65a71d0a48ca82674498",
                     "price": 5.99,
                     "description": "Refreshing beer from local breweries",
                     "rating": 4.3
                 },
                 {
                     "name": "Whiskey",
-                    "imageUrl": "https://example.com/whiskey.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/whiskey-bottle-glass-ad-with-bokeh-effect_52683-33688.jpg?w=826&t=st=1686770449~exp=1686771049~hmac=0ab6c59117ad01196fcc4a94922206ec7171113070c3fb198003da8fef94568b",
                     "price": 32.99,
                     "description": "Premium whiskey with smooth flavor",
                     "rating": 4.6
                 },
                 {
                     "name": "Vodka",
-                    "imageUrl": "https://example.com/vodka.jpg",
+                    "imageUrl": "https://img.freepik.com/free-vector/bottle-vodka-with-red-label_1268-95.jpg?w=826&t=st=1686770466~exp=1686771066~hmac=f44612ff0019bf01161bb7768de92ae6f120756439f8128d7b9a4d71d129ed35",
                     "price": 19.99,
                     "description": "High-quality vodka for your favorite cocktails",
                     "rating": 4.4
                 },
                 {
                     "name": "Tequila",
-                    "imageUrl": "https://example.com/tequila.jpg",
+                    "imageUrl": "https://img.freepik.com/free-psd/bottle-mock-up_1307-661.jpg?w=826&t=st=1686770518~exp=1686771118~hmac=09713980f686c1f405585d055fe95f72a72f796e5ebd97dacb244690aac2448b",
                     "price": 29.99,
                     "description": "Authentic tequila with a touch of Mexico",
                     "rating": 4.2
@@ -87,36 +87,36 @@
             "imageUrl": "https://images.pexels.com/photos/2079290/pexels-photo-2079290.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "foods": [
                 {
-                    "name": "Steak",
-                    "imageUrl": "https://example.com/steak.jpg",
+                    "name": "Chicken",
+                    "imageUrl": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style_2829-10159.jpg?w=1380&t=st=1686771766~exp=1686772366~hmac=5aed6f67e03a107f9c1914697acfba7e5b4b30ff1e790e846c035562734aaac9",
                     "price": 35.99,
-                    "description": "Tender and juicy steak cooked to perfection",
+                    "description": "Tender and juicy Chicken cooked to perfection",
                     "rating": 4.9
                 },
                 {
                     "name": "Seafood",
-                    "imageUrl": "https://example.com/seafood.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/fried-fish-carp-fresh-vegetable-salad-wooden-table-flat-lay-top-view_2829-19929.jpg?w=1380&t=st=1686770599~exp=1686771199~hmac=f7d4ab8e0e03b1c3111a91d4bde5c2cc7483082958c0cc0fa21e165258b24d61",
                     "price": 28.99,
                     "description": "Fresh and flavorful seafood delicacies",
                     "rating": 4.7
                 },
                 {
                     "name": "Sushi",
-                    "imageUrl": "https://example.com/sushi.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/california-roll-crab-cream-cheese-ginger-wasabi-side-view_141793-15465.jpg?w=1380&t=st=1686770615~exp=1686771215~hmac=2c2c8a3bdcbe359a5ad8b12ec916838c5c23701a1c2cab3ae89cdb21c715c468",
                     "price": 22.99,
                     "description": "Exquisite sushi rolls made by expert chefs",
                     "rating": 4.6
                 },
                 {
                     "name": "Lobster",
-                    "imageUrl": "https://example.com/lobster.jpg",
+                    "imageUrl": "https://img.freepik.com/premium-photo/red-lobster-with-vegetable-lemon-slices-black-slate_1339-129949.jpg?w=1380",
                     "price": 42.99,
                     "description": "Indulge in the succulent taste of lobster",
                     "rating": 4.8
                 },
                 {
                     "name": "Foie Gras",
-                    "imageUrl": "https://example.com/foie-gras.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/herring-salad-with-pickled-cucumbers-onions_2829-12919.jpg?w=1380&t=st=1686770670~exp=1686771270~hmac=c8a7f6fa274688e689e6626b957ab70607eecbe5e8a622d23f6a6df5725e8d26",
                     "price": 39.99,
                     "description": "Luxurious delicacy for a gourmet experience",
                     "rating": 4.5
@@ -129,37 +129,37 @@
             "foods": [
                 {
                     "name": "Cocktails",
-                    "imageUrl": "https://example.com/cocktails.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/red-iced-cocktail-table_140725-9712.jpg?w=740&t=st=1686770688~exp=1686771288~hmac=91324a351bccb09b151bcb25f2e6003476e0560613c904ebce3365d75689809a",
                     "price": 12.99,
                     "description": "Expertly crafted cocktails with a twist",
                     "rating": 4.4
                 },
                 {
                     "name": "Mocktails",
-                    "imageUrl": "https://example.com/mocktails.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/top-view-delicious-cocktail-glass-goblet-served-with-lemon-slice-ice-blue-background_140725-130475.jpg?w=1380&t=st=1686770709~exp=1686771309~hmac=7fa55510405caba2ddbaae6eeea352e05570e628ed1bdf2968ac11d3ce4cd254",
                     "price": 9.99,
                     "description": "Non-alcoholic mocktails bursting with flavors",
                     "rating": 4.2
                 },
                 {
                     "name": "Snacks",
-                    "imageUrl": "https://example.com/snacks.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/spring-rolls-are-eaten-chinese-new-year-s-day-spring-rolls-are-chinese-snack_1205-12531.jpg?w=1380&t=st=1686770730~exp=1686771330~hmac=455592c5de059690902b1fea7d950abaec176e970af9ef6e7e98a62679459ce6",
                     "price": 6.99,
                     "description": "Delicious snacks to complement your drinks",
                     "rating": 4.0
                 },
                 {
                     "name": "Nachos",
-                    "imageUrl": "https://example.com/nachos.jpg",
+                    "imageUrl": "https://img.freepik.com/free-photo/potato-chips_144627-16688.jpg?w=900&t=st=1686770743~exp=1686771343~hmac=eab29fa3d9ab8bad8fad399c8dc988c133f64a4a0d3ea4617dd10cda9a3ccc9e",
                     "price": 8.99,
                     "description": "Crunchy nachos topped with melted cheese",
                     "rating": 4.1
                 },
                 {
                     "name": "Chicken Wings",
-                    "imageUrl": "https://example.com/chicken-wings.jpg",
+                    "imageUrl": "https://img.freepik.com/premium-photo/fried-chicken-legs-with-lemon-parsley_266870-45.jpg?w=826",
                     "price": 10.99,
-                    "description": "Spicy and flavorful chicken wings for your cravings",
+                    "description": "Spicy and flavorful chicken wings ",
                     "rating": 4.3
                 }
             ]
