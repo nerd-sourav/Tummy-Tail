@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//removed unnessery code
 const Color primary = Color.fromARGB(255, 254, 185, 10);
 const Color secondary = Colors.black;
 
